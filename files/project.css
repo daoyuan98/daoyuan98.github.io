@@ -25,7 +25,7 @@ th,td
     height: auto !important;
     height: 100%;
     min-height: 100%;
-    margin:10px auto;
+    margin: 0 auto;
     text-align:left;
     /* border:1px solid #777; */
     background-color: white;
@@ -75,7 +75,6 @@ th,td
   color: #fff;
   border-right: 30px solid transparent;
   border-bottom: 30px solid #3D3D3D;
-  margin-bottom: 30px
   /* border-bottom-color: #777\9; */
   opacity: .3;
   filter: alpha(opacity=30);
